@@ -1,0 +1,6 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.autoImportCompletions": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
